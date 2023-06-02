@@ -9,9 +9,7 @@
 
 ### File Description
 
-The original videos and source files are stored in video and source directories, respectively.
-Directly execute source/make.sh script, which will automatically compile the source files, and run the demo.
-The number of byte generator threads, rounds of confusion and diffusion operations, etc., are declared in source/kernel.cu.
+The original video and the source files are stored in video and source directories, respectively. The number of byte generator threads, rounds of confusion and diffusion operations, etc., are declared in source/kernel.cu. Directly execute source/make.sh script, which will automatically compile the source files, and run the demo.
 
 Recommended setting:
 
