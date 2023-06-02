@@ -4,7 +4,7 @@
 
 * Operating System     : Ubuntu 20.04
 * OpenCV               : 4.5.2
-* CUDA                 : 12.1
+* CUDA                 : 11.2
 * cmake                : 3.16.3
 * Programming Language : C/C++
 
