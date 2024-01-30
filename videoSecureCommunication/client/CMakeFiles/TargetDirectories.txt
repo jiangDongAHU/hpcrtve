@@ -1,3 +1,0 @@
-/home/john/gitLab/videoencyptioncuda/hpcrtve/videoTransmission/client/CMakeFiles/rebuild_cache.dir
-/home/john/gitLab/videoencyptioncuda/hpcrtve/videoTransmission/client/CMakeFiles/edit_cache.dir
-/home/john/gitLab/videoencyptioncuda/hpcrtve/videoTransmission/client/CMakeFiles/demo.dir
