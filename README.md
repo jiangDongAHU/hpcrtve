@@ -20,7 +20,7 @@ The program retrieves frames from the original video, encrypts them using a rand
 
 The client retrieves frames from the original video, encrypts them using a key, displays the original and encrypted frames, and transmits the encrypted frames to the server via the Internet. The server decrypts the received frames using the same key, and displays the obtained and decrypted frames.
 
-###Recommended setting:
+### Recommended setting:
 
 * the width of the frame == the height of the frame
 * CONFUSION_BLOCK_ROWS_COLS = the width of the frame / CONFUSION_THREAD_ROWS_COLS
