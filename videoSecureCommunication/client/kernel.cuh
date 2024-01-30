@@ -21,8 +21,8 @@
 #define COMMUNICATION_PORT              55318
 #define SERVER_IP_ADDRESS               "192.168.1.102"
 
-#define VIDEO_NAME                      "../../video/foreman_cif.yuv.mp4"
-#define CONFUSION_BLOCK_ROWS_COLS       16
+#define VIDEO_NAME                      "../../video/originalVideo.mp4"
+#define CONFUSION_BLOCK_ROWS_COLS       12
 #define CONFUSION_THREAD_ROWS_COLS      32
 
 #define CONFUSION_ROUNDS                4
