@@ -12,11 +12,11 @@
 
 The original video is located in the video directory. The number of byte generator threads, rounds of confusion and diffusion oprations, etc., are declared in the kernel.cuh file. To complile the source files and run the program, simply execute the make.sh script.
 
-#### VideoEncryptionDecryption
+####  VideoEncryptionDecryption
 
 The program retrieves frames from the original video, encrypts them using a randomly selected key, decrypts the encrypted frames, and displays the original, encrypted, and decrypted frames.
 
-#### videoSecureCommunication
+####  videoSecureCommunication
 
 The client retrieves frames from the original video, encrypts them using a key, displays the original and encrypted frames, and transmits the encrypted frames to the server via the Internet. The server decrypts the received frames using the same key, and displays the obtained and decrypted frames.
 
