@@ -18,7 +18,7 @@ The program retrieves frames from the original video, encrypts them using a rand
 
 ####  videoSecureCommunication
 
-The client retrieves frames from the original video, encrypts them using a key, displays the original and encrypted frames, and transmits the encrypted frames to the server via the Internet. The server decrypts the received frames using the same key, and displays the obtained and decrypted frames.
+The client retrieves frames from the original video, encrypts them with a key, displays both the original and encrypted frames, encodes the encrypted frames into PNG format, and transmits them to the server over the Internet. The server decodes the obtained PNG files, decrypts the resulting frames using the same key, and displays the obtained and decrypted frames.
 
 ### Recommended setting:
 
