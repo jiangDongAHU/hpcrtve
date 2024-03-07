@@ -1,6 +1,6 @@
 ## Heterogeneous parallel computing based real-time chaotic video encryption and its application to secure drone communication
 
-### F. Shi, T. Li, H. Hu, Y. Li, D. Shan, and D. Jiang. Heterogeneous parallel computing based real-time chaotic video encryption and its application to drone-oriented secure communication. Chaos, Solitons \& Fractals 181, 114681 (2024).
+#### F. Shi, T. Li, H. Hu, Y. Li, D. Shan, and D. Jiang. Heterogeneous parallel computing based real-time chaotic video encryption and its application to drone-oriented secure communication. Chaos, Solitons \& Fractals 181, 114681 (2024).
 
 ### Development Enviroment
 
